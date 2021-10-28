@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "name": "zaid",
+      "username": "zaid65",
+      "email": "mzr16894@gmail.com",
+      "phone": "0837 431 2034",
+      "website": "altamas.com",
+      "id": 15
+    },
+    {
+      "name": "demo",
+      "username": "altamashkhan",
+      "email": "altamas@gmail.com",
+      "phone": "0837 431 2034",
+      "website": "asgdshdj.com",
+      "id": 16
+    },
+    {
+      "name": "abdul",
+      "username": "salam",
+      "email": "altamas@gmail.com",
+      "phone": "0837 431 2034",
+      "website": "javitech.tech",
+      "id": 18
+    },
+    {
+      "name": "alam",
+      "username": "jamal",
+      "email": "alamjamal@gmail.com",
+      "phone": "7894561235",
+      "website": "alam.co.in",
+      "id": 19
+    },
+    {
+      "name": "zeeshan",
+      "username": "khan",
+      "email": "zeeshan@gmail.com",
+      "phone": "8967563412",
+      "id": 20
+    },
+    {
+      "name": "farhan",
+      "username": "haider",
+      "email": "altamas@gmail.com",
+      "phone": "34254234234234",
+      "id": 21
+    }
+  ]
+}
